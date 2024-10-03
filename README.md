@@ -6,9 +6,8 @@ I am excited to present the **Potential Inc.** project that I successfully compl
 
 This task involved building a responsive portfolio-style website for **Potential Inc.** using **Next.js** for server-side rendering and modern JavaScript for functionality. Deployed seamlessly on **Vercel**, this project ensures fast, scalable performance and an intuitive user interface. 
 
-- **Live Demo**: [Potential Inc. Live Demo](#)
+- **Live Demo**: [Potential Inc. Live Demo](https://potential-task.vercel.app/)
 - ## Deploy Your Own
-
 You can deploy your own version  to Vercel with one click:
 
 ![Deploy with Vercel](https://vercel.com/button)
