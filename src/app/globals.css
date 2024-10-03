@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-black dark:bg-gray-900  dark:text-gray-600;
+}
+
+
+.progress-error::-webkit-progress-value {
+  --tw-bg-opacity: 1;
+  background-color: #FD6F00 !important;
+}
+
+.progress {
+  height: 12px !important;
+}
+
+/* Testimonial section swiper part */
+.swiper-pagination {
+  bottom: -25px !important;
+  margin: 24px;
+}
+
+.swiper-pagination-bullet {
+  padding-inline: 10px;
+  padding-block: 5px;
+  border-radius: 16px !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #FD6F00 !important;
+}
