@@ -94,11 +94,11 @@ const Testimonial: React.FC = () => {
                     <div className="flex-1">
                       <p className="text-base sm:text-lg my-2">
                         <span className="text-[#FD6F00] text-xl font-bold">
-                          "
+                          &quot;
                         </span>{" "}
                         {feedback.comment}{" "}
                         <span className="text-[#FD6F00] text-xl font-bold">
-                          "
+                          &quot;
                         </span>
                       </p>
                       <h4>
